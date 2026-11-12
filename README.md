@@ -35,13 +35,7 @@ I build tools for memecoin degens who are tired of trading blind.
 
 <p align="center"><img src="assets/h-build.png" alt="How I build" width="100%"></p>
 
-- **watch the wallet, not the tweet.** callouts are late by design. on-chain doesn't lie
-- **one screen.** if you need five tabs to make a trade, the tool failed
-- **receipts on everything.** every number links to the transaction so you can check it yourself
-- **free and open.** download it, read the code, fork it, do whatever
-- **fun matters.** sharks eat rugs, fish dance on buys. if it's boring you won't keep it open
-
-`Node.js` `JavaScript` `Solana RPC` `Axiom` `Claude` `terminal UIs` `pixel art`
+<h3 align="center">Smoke<br>I get idea<br>I do it</h3>
 
 <p align="center"><img src="assets/h-find.png" alt="Find me" width="100%"></p>
 
