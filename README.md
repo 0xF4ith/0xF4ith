@@ -11,12 +11,7 @@
 
 <p align="center"><img src="assets/h-who.png" alt="Who I am" width="100%"></p>
 
-I build tools for memecoin degens who are tired of trading blind.
-
-- terminal apps that show you what's actually happening, not what some guy tweets
-- Axiom filters, Claude agents and raw on-chain data, glued together into one screen
-- everything free and open, no subscription, no telegram bot taking a cut of your trades
-- I swear a lot. the code doesn't
+<h3 align="center">I build autistic tools that should be useful.</h3>
 
 <p align="center"><img src="assets/h-projects.png" alt="Projects" width="100%"></p>
 
