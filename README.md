@@ -11,7 +11,7 @@
 
 <p align="center"><img src="assets/h-who.png" alt="Who I am" width="100%"></p>
 
-<h3 align="center">I build autistic tools that should be useful.</h3>
+<h3 align="center">I am F4ith and I build autistic tools that should be useful.</h3>
 
 <p align="center"><img src="assets/h-projects.png" alt="Projects" width="100%"></p>
 
